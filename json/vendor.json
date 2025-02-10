@@ -1,0 +1,1715 @@
+[
+    {
+        "Customer": "A-1 Accessories",
+        "Website": "https://a1acc.com/",
+        "Phone": "850-968-4400",
+        "Address": "700 S. Highway 29, Cantonment, FL 32533",
+        "Latitude": 30.595636,
+        "Longitude": -87.312151
+    },
+    {
+        "Customer": "ALL AMERICAN TRAILERS LLC",
+        "Website": "www.allamericantrailersllc.com/pa",
+        "Phone": "713-459-3054",
+        "Address": "710 Trainer St, Chester, PA 19013",
+        "Latitude": 39.8331415,
+        "Longitude": -75.3985236
+    },
+    {
+        "Customer": "All Star Cargo Trailers LLC",
+        "Website": "https://www.allstarcargotrailer.com/",
+        "Phone": "912-850-9008",
+        "Address": "2726 US Hwy 441 S, Douglas, GA 31535",
+        "Latitude": 31.466616,
+        "Longitude": -82.850763
+    },
+    {
+        "Customer": "Allen's Pro Trailer Svc",
+        "Website": "https://www.allensprotrailerservice.com/",
+        "Phone": "904-225-8740",
+        "Address": "850418 Highway 17, Yulee, FL 32097",
+        "Latitude": 30.602323,
+        "Longitude": -81.59831
+    },
+    {
+        "Customer": "B&S Enterprises-NP",
+        "Website": "https://www.bsenterprisesms.com/",
+        "Phone": "601-575-3353",
+        "Address": "912 Holland Ave., Philadelphia, MS 39350",
+        "Latitude": 32.7590992,
+        "Longitude": -89.1056984
+    },
+    {
+        "Customer": "B&S Enterprises-NP:B&S Enterprises-Macon, MS",
+        "Website": "https://www.bsenterprisesms.com/",
+        "Phone": "601-575-3353",
+        "Address": "16110 US Hwy 45, Macon, MS 39341",
+        "Latitude": 33.1523421,
+        "Longitude": -88.5561764
+    },
+    {
+        "Customer": "B.H. Trailers and Plows CT LLC-NP",
+        "Website": "www.bhtrailersandplows.com",
+        "Phone": "860-949-7863",
+        "Address": "6 Center Parkway, Plainfield, CT 06374",
+        "Latitude": 41.6674122,
+        "Longitude": -71.9069499
+    },
+    {
+        "Customer": "B.H. Trailers and Plows CT LLC-NP:RHODE ISLAND",
+        "Website": "bhtrailersandplows.com",
+        "Phone": "401-214-3735",
+        "Address": "2207 Hartford Ave, Johnston, RI 02919",
+        "Latitude": 41.8298241,
+        "Longitude": -71.5335961
+    },
+    {
+        "Customer": "Beach Trailer Sales",
+        "Website": "https://beachtrailersalessc.com/",
+        "Phone": "843-997-5254",
+        "Address": "3545 Hwy 17 Business, MI, SC 29576",
+        "Latitude": 33.578889,
+        "Longitude": -79.02195
+    },
+    {
+        "Customer": "Bella's Custom Trailers",
+        "Website": "https://bellascustomtrailers.com/",
+        "Phone": "904-879-2518",
+        "Address": "11828 New Kings Rd, Jacksonville, FL 32219",
+        "Latitude": 30.4485661,
+        "Longitude": -81.7699034
+    },
+    {
+        "Customer": "Border Truck Equipment- NP",
+        "Website": "www.bordertruckequipment.com",
+        "Phone": "802-754-2978",
+        "Address": "470 Chadburn Road, Irasburg, VT 05845",
+        "Latitude": 44.7812089,
+        "Longitude": -72.2490111
+    },
+    {
+        "Customer": "C&C Custom Trailers",
+        "Website": "www.ccustomtrailers.com",
+        "Phone": "423-257-8888",
+        "Address": "7090 E. Andrew Johnson Hwy., Chuckey, TN 37641",
+        "Latitude": 36.207899,
+        "Longitude": -82.714825
+    },
+    {
+        "Customer": "Caesar Creek Trailer Sales",
+        "Website": "https://www.caesarcreektrailersales.com/",
+        "Phone": "513-897-2912",
+        "Address": "157 Maple Street, Harveysburg, OH 45032",
+        "Latitude": 39.501719,
+        "Longitude": -84.0130464
+    },
+    {
+        "Customer": "Carco Cars LLC",
+        "Website": "https://www.carcocars.com/",
+        "Phone": "251-952-0011",
+        "Address": "1901 South McKenzie Street, Foley, AL 36535",
+        "Latitude": 30.378072,
+        "Longitude": -87.683131
+    },
+    {
+        "Customer": "Cassone Truck & Equipment",
+        "Website": "www.cassonetrucksales.com",
+        "Phone": "631-389-7800",
+        "Address": "1950 Lakeland Avenue, Ronkonkoma, NY 11779",
+        "Latitude": 40.7979503,
+        "Longitude": -73.1223029
+    },
+    {
+        "Customer": "Chasin Migration LLC",
+        "Website": "https://chasinmigration.com/",
+        "Phone": "769-770-0155",
+        "Address": "1694 Clifton Hillsboro Rd, Lena, MS 39094",
+        "Latitude": 32.473841,
+        "Longitude": -89.627224
+    },
+    {
+        "Customer": "Chattahoochee Trailer, LLC- WF",
+        "Website": "https://www.chattahoocheetrailer.com/",
+        "Phone": "706-223-0699",
+        "Address": "5100 Veterans Pkwy, Columbus, GA 31904",
+        "Latitude": 32.513914,
+        "Longitude": -84.969473
+    },
+    {
+        "Customer": "Circle Double B Trailer Sales",
+        "Website": "https://circlebbtrailers.com/",
+        "Phone": "912-292-1121",
+        "Address": "118 N. Pearl Ave., Douglas, GA 31533",
+        "Latitude": 31.5091189,
+        "Longitude": -82.8479976
+    },
+    {
+        "Customer": "Coffee Cargo",
+        "Website": "https://coffeecargotrailers.com/",
+        "Phone": "912-383-8353",
+        "Address": "910 N Peterson Ave, Douglas, GA 31533",
+        "Latitude": 31.5173459,
+        "Longitude": -82.8506026
+    },
+    {
+        "Customer": "Cowboy Trailers",
+        "Website": "www.cowboytrailers.com",
+        "Phone": "(318) 644-8686",
+        "Address": "246 Calhoun Service Road, Calhoun, LA 71225",
+        "Latitude": 32.508025,
+        "Longitude": -92.362085
+    },
+    {
+        "Customer": "David's Trailer & Hitch",
+        "Phone": "859-885-7772",
+        "Address": "600 N. Main St., Nicholasville, KY 40356",
+        "Latitude": 37.887794,
+        "Longitude": -84.569798
+    },
+    {
+        "Customer": "Deal Brothers Trailers- NP",
+        "Website": "https://www.dealbrotherstrailers.com/",
+        "Phone": "901-323-3535",
+        "Address": "3206 Gateway Place, Memphis, TN 38122",
+        "Latitude": 35.1687115,
+        "Longitude": -89.9528367
+    },
+    {
+        "Customer": "Eastern Iowa Trailer Sales-WF",
+        "Website": "https://www.easterniowatrailersales.com/",
+        "Phone": "563-748-1310",
+        "Address": "2338 Benson Shady Grove Ave., Jesup, IA 50648",
+        "Latitude": 42.4638902,
+        "Longitude": -92.0558287
+    },
+    {
+        "Customer": "Gator Made Trailers",
+        "Website": "https://www.gatormade.com/",
+        "Phone": "(606) 679-6893",
+        "Address": "1278 HWY 461, Somerset, KY 42503",
+        "Latitude": 37.238689,
+        "Longitude": -84.434361
+    },
+    {
+        "Customer": "Gator Made Trailers:Mt.Orab",
+        "Website": "https://www.gatormade.com/",
+        "Phone": "(606) 679-6893",
+        "Address": "15085 Bodman Rd, Mt.Orab, OH 45154",
+        "Latitude": 39.0525651,
+        "Longitude": -83.9630827
+    },
+    {
+        "Customer": "Georgia Equipment Co., Inc.",
+        "Website": "georgiaequipment.com",
+        "Phone": "912-764-5444",
+        "Address": "22738 Hwy 80 East, Statesboro, GA 30461",
+        "Latitude": 32.4250433,
+        "Longitude": -81.7333612
+    },
+    {
+        "Customer": "GEORGIA TRAILER DEPOT",
+        "Website": "https://www.georgiatrailerdepot.com/",
+        "Address": "110 Queens Way, Woodstock, GA 30189",
+        "Latitude": 34.084368,
+        "Longitude": -84.560735
+    },
+    {
+        "Customer": "Giles Outdoor Power Equipment",
+        "Website": "www.gilesoutdoorpowerequipment.com",
+        "Phone": "478-397-5587",
+        "Address": "1002 St. Patricks Drive, Perry, GA 31069",
+        "Latitude": 32.4711667,
+        "Longitude": -83.7428828
+    },
+    {
+        "Customer": "Hawkes Motorsports LLC",
+        "Website": "https://www.hawkestrailer.com/",
+        "Address": "129 A  South Mast St., Goffstown, NH 03281",
+        "Latitude": 43.0148957,
+        "Longitude": -71.5835867
+    },
+    {
+        "Customer": "HBS- FLORENCE",
+        "Website": "https://www.hbstrailersales.com/",
+        "Phone": "843-610-5542",
+        "Address": "1903 South Irby Street, Florence, SC 29505",
+        "Latitude": 34.1313517,
+        "Longitude": -79.7748988
+    },
+    {
+        "Customer": "HBS- MYRTLE BEACH",
+        "Website": "https://www.hbstrailersales.com/",
+        "Address": "136 Rodeo Dr., Myrtle Beach, SC 29579",
+        "Latitude": 33.749984,
+        "Longitude": -78.961985
+    },
+    {
+        "Customer": "Helya Adventures Trailers",
+        "Website": "https://helyatrailers.com/",
+        "Phone": "208-406-6946",
+        "Address": "3896 Breezy Point, Pocatello, ID 83201",
+        "Latitude": 42.9041508,
+        "Longitude": -112.493184
+    },
+    {
+        "Customer": "Hickory Enclosed Trailer-NP",
+        "Website": "https://www.hickoryenclosed.com/",
+        "Phone": "(828) 256-5588",
+        "Address": "3665 Springs Road NE, Hickory, NC 28601",
+        "Latitude": 35.751438,
+        "Longitude": -81.287709
+    },
+    {
+        "Customer": "Hudson River Truck & Trailer",
+        "Website": "https://www.hudsonrivertruck.com/",
+        "Phone": "845-454-7669",
+        "Address": "12 Commerce St Ext, Poughkeepsie, NY 12603",
+        "Latitude": 41.685361,
+        "Longitude": -73.856368
+    },
+    {
+        "Customer": "Huffman Trailer Sales",
+        "Website": "https://www.huffmantrailers.com/",
+        "Phone": "540-434-3530",
+        "Address": "4124 N Valley Pike, Rockingham, VA 22802",
+        "Latitude": 38.4858722,
+        "Longitude": -78.813241
+    },
+    {
+        "Customer": "I-Deal Trailers",
+        "Website": "https://idealtrailernc.com/",
+        "Phone": "919-554-6266",
+        "Address": "14104 Capital Blvd., Wake Forest, NC 27587",
+        "Latitude": 35.9406656,
+        "Longitude": -78.540449
+    },
+    {
+        "Customer": "Inglewood Custom",
+        "Website": "https://inglewoodcustoms.com/",
+        "Phone": "478-374-1103",
+        "Address": "224 Industrial Blvd, Eastman, GA 31023",
+        "Latitude": 32.1786724,
+        "Longitude": -83.1591772
+    },
+    {
+        "Customer": "J&S EQUIPMENT INC",
+        "Website": "https://www.jstrailersales.com/",
+        "Phone": "410-883-3988",
+        "Address": "11660 Sharptown Rd., Mardela Springs, MD 21837",
+        "Latitude": 38.543495,
+        "Longitude": -75.71651
+    },
+    {
+        "Customer": "K&J Enterprises of Deville LLC",
+        "Website": "kjtrailers/facebook",
+        "Phone": "318-201-9988",
+        "Address": "1600 Hwy 115, Deville, LA 71328",
+        "Latitude": 31.3357412,
+        "Longitude": -92.165189
+    },
+    {
+        "Customer": "Kauff's Truck & Trailer",
+        "Website": "https://kauffstruckandtrailer.com/",
+        "Phone": "561-881-7100",
+        "Address": "1416 10th Court, Lake Park, FL 33403",
+        "Latitude": 26.8053309,
+        "Longitude": -80.0755858
+    },
+    {
+        "Customer": "King Trailers",
+        "Phone": "843-814-4258",
+        "Address": "659 Pelzer Drive, Mt. Pleasant, SC 29464",
+        "Latitude": 32.8026208,
+        "Longitude": -79.8768138
+    },
+    {
+        "Customer": "Leonard Buildings:Aiken, S.C",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1172 East Pine Log Rd, Aiken, SC 29803",
+        "Latitude": 33.5375044,
+        "Longitude": -81.6865137
+    },
+    {
+        "Customer": "Leonard Buildings:Albemarle, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "201 NC 24-27 Bypass East, Albermarle, NC 28001",
+        "Latitude": 35.371536,
+        "Longitude": -80.97388
+    },
+    {
+        "Customer": "Leonard Buildings:Anderson SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1203 N. Main St, Anderson, undefined 29621",
+        "Latitude": 34.5141905,
+        "Longitude": -82.6534385
+    },
+    {
+        "Customer": "Leonard Buildings:Asheville NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "800 Tunnel Rd, Asheville, NC 28805",
+        "Latitude": 35.586657,
+        "Longitude": -82.50667
+    },
+    {
+        "Customer": "Leonard Buildings:Beckley, WV",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3788 Robert C Byrd Dr, Beckley, WV 35801",
+        "Latitude": 37.7577257,
+        "Longitude": -81.2136416
+    },
+    {
+        "Customer": "Leonard Buildings:Blacksburg, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3930 S Main Street, Blacksburg, VA 24060",
+        "Latitude": 37.179091,
+        "Longitude": -80.414588
+    },
+    {
+        "Customer": "Leonard Buildings:Charleston,SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "7009 Rivers Ave, North Charleston, SC 29406",
+        "Latitude": 32.9246382,
+        "Longitude": -80.031981
+    },
+    {
+        "Customer": "Leonard Buildings:Charlotte, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "6900 South Blvd, Charlotte, NC 28217",
+        "Latitude": 35.139747,
+        "Longitude": -80.876664
+    },
+    {
+        "Customer": "Leonard Buildings:Chesterfield, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "16001 US -1  South, Chesterfield, VA 23834",
+        "Latitude": 37.30459,
+        "Longitude": -77.409002
+    },
+    {
+        "Customer": "Leonard Buildings:Clarksburg, WV",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1318 Buckhannon Pike, Claksburg, WV 26301",
+        "Latitude": 39.270254,
+        "Longitude": -80.326276
+    },
+    {
+        "Customer": "Leonard Buildings:Columbia S.C",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1919 Augusta RD, West Columbia, SC 29169",
+        "Latitude": 33.9853493,
+        "Longitude": -81.0871009
+    },
+    {
+        "Customer": "Leonard Buildings:Columbus, GA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2215 Veterans Pkwy, Columbus, GA 391904",
+        "Latitude": 32.4845773,
+        "Longitude": -84.9873163
+    },
+    {
+        "Customer": "Leonard Buildings:Conway, SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1208 East Hwy 501, Conway, SC 29526",
+        "Latitude": 33.841402,
+        "Longitude": -79.06028
+    },
+    {
+        "Customer": "Leonard Buildings:Durham, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "undefined, Durham, NC 27705",
+        "Latitude": 35.996653,
+        "Longitude": -78.9018053
+    },
+    {
+        "Customer": "Leonard Buildings:Fayetteville, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4009 Bragg Blvd, Fayetteville, NC 28303",
+        "Latitude": 35.0799473,
+        "Longitude": -78.9419819
+    },
+    {
+        "Customer": "Leonard Buildings:Fredericksburg, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1401 Emancipation Proclamation, Fredericksburg, VA 22401",
+        "Latitude": 38.295135,
+        "Longitude": -77.483689
+    },
+    {
+        "Customer": "Leonard Buildings:Garner N.C",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "Garner, Raleigh, NC 27603",
+        "Latitude": 35.7396425,
+        "Longitude": -78.6306723
+    },
+    {
+        "Customer": "Leonard Buildings:Goldsboro, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4273 US 70 E, Goldsboro, NC 27534",
+        "Latitude": 35.345669,
+        "Longitude": -77.915714
+    },
+    {
+        "Customer": "Leonard Buildings:Greensboro, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4010 W Wendover Ave, Greensboro, NC 27407",
+        "Latitude": 36.059751,
+        "Longitude": -79.882382
+    },
+    {
+        "Customer": "Leonard Buildings:Greenville, SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "428 Wade Hampton Blvd, Greenville, SC 29609",
+        "Latitude": 34.8656053,
+        "Longitude": -82.3798062
+    },
+    {
+        "Customer": "Leonard Buildings:High Point, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2908 S. Main ST., Archdale, NC 27263",
+        "Latitude": 35.9216368,
+        "Longitude": -79.979219
+    },
+    {
+        "Customer": "Leonard Buildings:Huntington",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3300 Route 60 E, Huntington, WV 25705",
+        "Latitude": 38.412828,
+        "Longitude": -82.388633
+    },
+    {
+        "Customer": "Leonard Buildings:Jacksonville Fl",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "8046 Beach Blvd, Jacksonville, FL 32216",
+        "Latitude": 30.2878536,
+        "Longitude": -81.5772384
+    },
+    {
+        "Customer": "Leonard Buildings:Jacksonville NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "910-347-5188",
+        "Address": "1625 N Marine Blvd, Jacksonville, NC 28546",
+        "Latitude": 34.7706263,
+        "Longitude": -77.4017798
+    },
+    {
+        "Customer": "Leonard Buildings:Jeremy Owens",
+        "Website": "www.leonardusa.com",
+        "Phone": "910-347-5188",
+        "Address": "undefined, Jacksonville, NC 28546",
+        "Latitude": 34.7494749,
+        "Longitude": -77.4208221
+    },
+    {
+        "Customer": "Leonard Buildings:Johnson City, TN",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3925 Bristol Hwy., Johnson City, TN 37601",
+        "Latitude": 36.381459,
+        "Longitude": -82.3661676
+    },
+    {
+        "Customer": "Leonard Buildings:Knoxville",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4716 Clinton Hwy, Knoxville, TN 39912",
+        "Latitude": 36.198279,
+        "Longitude": -86.280947
+    },
+    {
+        "Customer": "Leonard Buildings:Lake Wales FL.",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "25199 US27, Lake Wales, FL 33853",
+        "Latitude": 27.900707,
+        "Longitude": -81.58445
+    },
+    {
+        "Customer": "Leonard Buildings:Lakeland Fl.",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1102 W.Socrum Loop Rd, Lakeland, FL 33810",
+        "Latitude": 28.164781,
+        "Longitude": -81.975984
+    },
+    {
+        "Customer": "Leonard Buildings:Macon, GA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4144 Pio Nono Ave, Macon, GA 31206",
+        "Latitude": 32.789546,
+        "Longitude": -83.668411
+    },
+    {
+        "Customer": "Leonard Buildings:Manassas, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "8136 Sudley Road, Manassas, VA 20109",
+        "Latitude": 38.7706143,
+        "Longitude": -77.4953746
+    },
+    {
+        "Customer": "Leonard Buildings:Mechanicsville, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "6029 Mechanicsville Turnpike, Mechanicsville, VA 23111",
+        "Latitude": 37.6070505,
+        "Longitude": -77.3632874
+    },
+    {
+        "Customer": "Leonard Buildings:Monroe, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4304 W Highway 74, Monroe, NC 28110",
+        "Latitude": 35.041915,
+        "Longitude": -80.606801
+    },
+    {
+        "Customer": "Leonard Buildings:Mt. Airy, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "200 Accessories Lane, Mt. Airy, NC 27030",
+        "Latitude": 36.554316,
+        "Longitude": -80.660088
+    },
+    {
+        "Customer": "Leonard Buildings:New Bern, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2501  E US HWY 70, New Bern, NC 28560",
+        "Latitude": 35.062689,
+        "Longitude": -77.021198
+    },
+    {
+        "Customer": "Leonard Buildings:Newton, N.C.",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2955 Hwy 70 SE, Newton, NC 28658",
+        "Latitude": 35.698639,
+        "Longitude": -81.276732
+    },
+    {
+        "Customer": "Leonard Buildings:Ocala Fl",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3720 S Pine Ave, Ocala, FL 34471",
+        "Latitude": 29.15085,
+        "Longitude": -82.120041
+    },
+    {
+        "Customer": "Leonard Buildings:Panama City, FL",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3001 E 15th St, Panama City, FL 62405",
+        "Latitude": 30.1750096,
+        "Longitude": -85.6416669
+    },
+    {
+        "Customer": "Leonard Buildings:Panama City, FL:St Augustine, FL",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1350 State Rd 207, St Augustine, FL 32086",
+        "Latitude": 29.854742,
+        "Longitude": -81.354803
+    },
+    {
+        "Customer": "Leonard Buildings:Parkersburg, WV",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4302 Emerson Ave., Parkersburg, WV 26104",
+        "Latitude": 39.2903988,
+        "Longitude": -81.5285893
+    },
+    {
+        "Customer": "Leonard Buildings:Portsmouth, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2525 Airline Boulevard, Portsmouth, VA 23701",
+        "Latitude": 36.8142017,
+        "Longitude": -76.3563133
+    },
+    {
+        "Customer": "Leonard Buildings:Princeton,WV",
+        "Website": "www.leonardusa.com",
+        "Phone": "304-425-7141",
+        "Address": "200 Expert Circle, Princeton, WV 24740",
+        "Latitude": 37.379876,
+        "Longitude": -81.117475
+    },
+    {
+        "Customer": "Leonard Buildings:Purvis,MS",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "132 Central Industrial Row, Purvis, MS 39475",
+        "Latitude": 31.167925,
+        "Longitude": -89.4109051
+    },
+    {
+        "Customer": "Leonard Buildings:Raleigh, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4239 Capitol Blvd, Raleigh, NC 27604",
+        "Latitude": 35.837654,
+        "Longitude": -78.581104
+    },
+    {
+        "Customer": "Leonard Buildings:RETAIL LOT Mt.Airy",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "RETAIL LOT, Mt.Airy, NC 37030",
+        "Latitude": 36.529558,
+        "Longitude": -86.035707
+    },
+    {
+        "Customer": "Leonard Buildings:Richmond, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "9600 Jefferson Davis Hwy, Richmond, VA 23237",
+        "Latitude": 37.394259,
+        "Longitude": -77.429335
+    },
+    {
+        "Customer": "Leonard Buildings:Ripley, WV",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "243 South Church St, Ripley, WV 25271",
+        "Latitude": 38.8138291,
+        "Longitude": -81.7087428
+    },
+    {
+        "Customer": "Leonard Buildings:Roanoke, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "5736 Williamson Road, Roanoke, VA 24012",
+        "Latitude": 37.3280713,
+        "Longitude": -79.9528362
+    },
+    {
+        "Customer": "Leonard Buildings:Rock Hill, SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "888 N Anderson RD, Rock Hill, SC 29730",
+        "Latitude": 34.9607218,
+        "Longitude": -80.9947163
+    },
+    {
+        "Customer": "Leonard Buildings:Rockingham, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1786 East Broad Avenue, Rockingham, NC 28379",
+        "Latitude": 34.9275285,
+        "Longitude": -79.7585437
+    },
+    {
+        "Customer": "Leonard Buildings:Rocky Mount, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "921 S Wesleyan Blvd, Rocky Mount, NC 27803",
+        "Latitude": 35.9326943,
+        "Longitude": -77.8304084
+    },
+    {
+        "Customer": "Leonard Buildings:Ruckersville, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "8467 Seminole Trail, Ruckersville, VA 22968",
+        "Latitude": 38.228979,
+        "Longitude": -78.371997
+    },
+    {
+        "Customer": "Leonard Buildings:Rustburg, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "12236 Wards Rd, Rustburg, VA 24588",
+        "Latitude": 37.2964434,
+        "Longitude": -79.1726355
+    },
+    {
+        "Customer": "Leonard Buildings:Savannah East",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "7409 Albercorn St, Savannah, GA 31406",
+        "Latitude": 31.981768,
+        "Longitude": -81.083838
+    },
+    {
+        "Customer": "Leonard Buildings:Selma, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1450 Pollock Street, Selma, NC 27576",
+        "Latitude": 35.5242577,
+        "Longitude": -78.3023307
+    },
+    {
+        "Customer": "Leonard Buildings:SHELBY N.C",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "1884 EAST DIXON BLVD., SHELBY, undefined 28152",
+        "Latitude": 35.2717124,
+        "Longitude": -81.4948248
+    },
+    {
+        "Customer": "Leonard Buildings:South Charleston, WV",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "5408 Maccorkle Ave SW, South Charleston, WV 25309",
+        "Latitude": 38.3595682,
+        "Longitude": -81.7165244
+    },
+    {
+        "Customer": "Leonard Buildings:Spartanburg West",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "Spartanburg West, Spartanburg, SC 29303",
+        "Latitude": 34.9509926,
+        "Longitude": -81.9345551
+    },
+    {
+        "Customer": "Leonard Buildings:Spartanburg, SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "840 Hospitality Drive, Spartanburg, SC 29303",
+        "Latitude": 34.997085,
+        "Longitude": -81.944061
+    },
+    {
+        "Customer": "Leonard Buildings:Springhill Fl.",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "12930 US 41, Sping Hill, FL 34610",
+        "Latitude": 28.345472,
+        "Longitude": -82.5028
+    },
+    {
+        "Customer": "Leonard Buildings:Summerfield, FL",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "14444 S Hwy 301, Summerfield, FL 34491",
+        "Latitude": 29.012121,
+        "Longitude": -82.042259
+    },
+    {
+        "Customer": "Leonard Buildings:Summerville, SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2423 N. Main St., Summerville, SC 29486",
+        "Latitude": 33.0390508,
+        "Longitude": -80.1450536
+    },
+    {
+        "Customer": "Leonard Buildings:Sumter, SC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2841 Broad St., Sumter, SC 29150",
+        "Latitude": 33.965528,
+        "Longitude": -80.4083881
+    },
+    {
+        "Customer": "Leonard Buildings:VA Beach, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "980 S Millitary Hwy, VA Beach, VA 23464",
+        "Latitude": 36.812062,
+        "Longitude": -76.217271
+    },
+    {
+        "Customer": "Leonard Buildings:Valdosta GA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "249 Douglas St, Valdosta, GA 31601",
+        "Latitude": 30.8442225,
+        "Longitude": -83.2509668
+    },
+    {
+        "Customer": "Leonard Buildings:Wilmington NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "5705 Market St, Wilmigton, NC 28405",
+        "Latitude": 34.24885,
+        "Longitude": -77.861626
+    },
+    {
+        "Customer": "Leonard Buildings:Wilson, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "4380 Raleigh Rd Pkwy W., Wilson, NC 27896",
+        "Latitude": 35.7613956,
+        "Longitude": -77.9869563
+    },
+    {
+        "Customer": "Leonard Buildings:Winchester, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "3360 Valley Pike, Winchester, VA 22602",
+        "Latitude": 39.1407664,
+        "Longitude": -78.190566
+    },
+    {
+        "Customer": "Leonard Buildings:Winston-Salem, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "955 Peters Creek Parkway, Winston-Salem, NC 27103",
+        "Latitude": 36.0602045,
+        "Longitude": -80.2590104
+    },
+    {
+        "Customer": "Leonard Buildings:Yorktown, VA",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "2307 U.S. 17, Yorktown, VA 23693",
+        "Latitude": 37.116541,
+        "Longitude": -76.456673
+    },
+    {
+        "Customer": "Leonard Buildings:Youngsville, NC",
+        "Website": "www.leonardusa.com",
+        "Phone": "336-789-5018",
+        "Address": "472 US 1 HWY, Youngsville, NC 27596",
+        "Latitude": 36.041505,
+        "Longitude": -78.497187
+    },
+    {
+        "Customer": "LESS of Tampa Bay LLC",
+        "Website": "http://lesstampabay.com",
+        "Phone": "(727) 873-6929",
+        "Address": "12855 49th Street North, Clearwater, FL 33762",
+        "Latitude": 27.889341,
+        "Longitude": -82.700336
+    },
+    {
+        "Customer": "LESS of Wesley Chapel",
+        "Website": "www.lesstampabay.com",
+        "Phone": "813-536-0213",
+        "Address": "30542 State Road 54, Wesley Chapel, FL 33543",
+        "Latitude": 28.2402157,
+        "Longitude": -82.3110211
+    },
+    {
+        "Customer": "Liberty Trailerama, Inc",
+        "Website": "http://libertytrailerama.com/",
+        "Phone": "912-368-9576",
+        "Address": "4042 E. Oglethorpe Hwy, Hinesville, GA 31313",
+        "Latitude": 31.8483397,
+        "Longitude": -81.5900536
+    },
+    {
+        "Customer": "Load Runner Trailers",
+        "Website": "www.loadrunnertrailers.com",
+        "Phone": "(813) 612-9799",
+        "Address": "3110 North Falkenburg Road, Tampa, FL 33619",
+        "Latitude": 27.972164,
+        "Longitude": -82.335191
+    },
+    {
+        "Customer": "Load Runner Trailers:Ft. Lauderdale, FL",
+        "Website": "www.loadrunnertrailers.com",
+        "Phone": "(813) 612-9799",
+        "Address": "19681 SW 69th Place, Ft. Lauderdale, FL 33332",
+        "Latitude": 26.031637,
+        "Longitude": -80.410817
+    },
+    {
+        "Customer": "Load Runner Trailers:Ft. Myers",
+        "Website": "www.loadrunnertrailers.com",
+        "Phone": "866-296-9727",
+        "Address": "5901 West SR 80, LaBelle, FL 33935",
+        "Latitude": 26.709692,
+        "Longitude": -81.540422
+    },
+    {
+        "Customer": "Load Runner Trailers:Jacksonville, FL",
+        "Website": "www.loadrunnertrailers.com",
+        "Phone": "(813) 612-9799",
+        "Address": "11040 West Beaver Street, Jacksonville, FL 32220",
+        "Latitude": 30.3146419,
+        "Longitude": -81.8461485
+    },
+    {
+        "Customer": "Load Runner Trailers:Orlando, FL",
+        "Website": "www.loadrunnertrailers.com",
+        "Phone": "863-581-3253",
+        "Address": "5311 Young Pine Rd., Orlando, FL 32829",
+        "Latitude": 28.506839,
+        "Longitude": -81.240171
+    },
+    {
+        "Customer": "Load Runner Trailers:Tampa, FL",
+        "Website": "www.loadrunnertrailers.com",
+        "Phone": "(813) 612-9799",
+        "Address": "3110 North Falkenburg Road, Tampa, FL 33619",
+        "Latitude": 27.972164,
+        "Longitude": -82.335191
+    },
+    {
+        "Customer": "Main Street Mower, Inc",
+        "Website": "https://www.mainstreetmower.com",
+        "Phone": "407-654-9299",
+        "Address": "12403 West Colonial Drive, Winter Garden, FL 34787",
+        "Latitude": 28.5522226,
+        "Longitude": -81.5656279
+    },
+    {
+        "Customer": "Main Street Mower, Inc:Clermont, FL",
+        "Website": "https://www.mainstreetmower.com",
+        "Phone": "407-654-9299",
+        "Address": "17736 US HWY 27, CLERMONT, FL 34715",
+        "Latitude": 28.6051008,
+        "Longitude": -81.7552432
+    },
+    {
+        "Customer": "Maxx Cargo LLC",
+        "Website": "https://www.maxxcargo.com/",
+        "Phone": "(912) 381-2138",
+        "Address": "3431 US Hwy 441 S, Douglas, GA 31533",
+        "Latitude": 31.556861,
+        "Longitude": -82.851239
+    },
+    {
+        "Customer": "McClain Trailers Inc.",
+        "Website": "https://mikegeraldstrailerdepot.com/",
+        "Phone": "(225) 356-4000",
+        "Address": "6800 Airline Highway, Baton Rouge, LA 70805",
+        "Latitude": 30.4902492,
+        "Longitude": -91.1223491
+    },
+    {
+        "Customer": "Middleboro Trailer Sales",
+        "Website": "https://www.middleborotrailers.com/",
+        "Phone": "803-353-8826",
+        "Address": "11021 Garners Ferry Rd., Eastover , SC 29044",
+        "Latitude": 33.944018,
+        "Longitude": -80.743395
+    },
+    {
+        "Customer": "Middletown Trailer Supply",
+        "Website": "www.middletowntrailer.com",
+        "Phone": "732-787-6502",
+        "Address": "550 Hwy 36 East, Belford, NJ 07718",
+        "Latitude": 40.419031,
+        "Longitude": -74.087477
+    },
+    {
+        "Customer": "Mowers Inc.- NP",
+        "Website": "https://www.mowersinc.net/",
+        "Phone": "(941) 706-4465",
+        "Address": "4511 Clark Road, Sarasota, FL 34233",
+        "Latitude": 27.269003,
+        "Longitude": -82.4796551
+    },
+    {
+        "Customer": "Nationwide",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "281-741-0014",
+        "Address": "undefined, undefined, undefined undefined",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "Customer": "Nationwide:Cabot-WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "501-982-9022",
+        "Address": "7216 T.P. White Drive, Cabot, AR 72023",
+        "Latitude": 34.930373,
+        "Longitude": -92.080377
+    },
+    {
+        "Customer": "Nationwide:Des Moines-WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "515-915-0515",
+        "Address": "1458 Northridge Circle NE, Altoona, IA 50009",
+        "Latitude": 41.667872,
+        "Longitude": -93.45635
+    },
+    {
+        "Customer": "Nationwide:Ft. Worth-WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "817-457-3535",
+        "Address": "2850 E. Loop 820 S., Fort Worth, TX 76119",
+        "Latitude": 32.7169717,
+        "Longitude": -97.227163
+    },
+    {
+        "Customer": "Nationwide:Houston - WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "281-931-3000",
+        "Address": "8410 North Fwy, Houston, TX 77037",
+        "Latitude": 29.8889587,
+        "Longitude": -95.4123317
+    },
+    {
+        "Customer": "Nationwide:Oak Grove- WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "816-834-9349",
+        "Address": "603 SW 1st St., Oak Grove, MO 64075",
+        "Latitude": 39.0153861,
+        "Longitude": -94.1382048
+    },
+    {
+        "Customer": "Nationwide:Odessa- WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "432-563-2001",
+        "Address": "7901 E IH 20, Odessa, TX 79765",
+        "Latitude": 31.911379,
+        "Longitude": -102.217126
+    },
+    {
+        "Customer": "Nationwide:OKC-WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "405-454-8700",
+        "Address": "335 Mullholland Way, Oklahoma City, OK 73128",
+        "Latitude": 35.458482,
+        "Longitude": -97.662381
+    },
+    {
+        "Customer": "Nationwide:Pasadena - WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "281-998-0123",
+        "Address": "5319 Spencer Hwy, Pasadena, TX 77505",
+        "Latitude": 29.665653,
+        "Longitude": -95.160003
+    },
+    {
+        "Customer": "Nationwide:San Antonio-WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "210-622-3001",
+        "Address": "16293 IH 35 South, Atascosa, TX 78002",
+        "Latitude": 29.2453154,
+        "Longitude": -98.7642115
+    },
+    {
+        "Customer": "Nationwide:St. Louis- WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "573-975-3997",
+        "Address": "2366 E. Pittman Ave., Wentzville, MO 63385",
+        "Latitude": 38.807975,
+        "Longitude": -90.802208
+    },
+    {
+        "Customer": "Nationwide:Tulsa-WF",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "918-346-6238",
+        "Address": "15051 East Admiral Place, Tulsa, OK 74116",
+        "Latitude": 36.1619376,
+        "Longitude": -95.8106886
+    },
+    {
+        "Customer": "Nationwide:Van Alstyne",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "281-741-0014",
+        "Address": "13663 Hwy 75, Van Alstyne, TX 75495",
+        "Latitude": 33.4336514,
+        "Longitude": -96.5963493
+    },
+    {
+        "Customer": "Nationwide Trailer Sales LLC",
+        "Website": "https://nationwidetrailers.com/",
+        "Phone": "912-292-9380",
+        "Address": "2526 Hwy 32 E, Douglas, GA 31533",
+        "Latitude": 31.515222,
+        "Longitude": -82.877766
+    },
+    {
+        "Customer": "North Point Auto and Equipment",
+        "Website": "https://www.northpointtrailers.com/",
+        "Phone": "(570) 473-3455",
+        "Address": "2590 Point Township Drive, Northumberland, PA 17857",
+        "Latitude": 40.9344181,
+        "Longitude": -76.7033553
+    },
+    {
+        "Customer": "OUTLAW TRAILERS",
+        "Website": "https://www.outlawtrailers.net/",
+        "Phone": "865-657-9077",
+        "Address": "1383 E. Lee Hwy, Loudon, TN 37774",
+        "Latitude": 35.7460398,
+        "Longitude": -84.3219457
+    },
+    {
+        "Customer": "Parker Cargo Sales",
+        "Website": "www.parkercargosales.com",
+        "Phone": "912-309-3994",
+        "Address": "1810 Will Lewis Rd, Pearson, GA 31642",
+        "Latitude": 31.343819,
+        "Longitude": -82.932242
+    },
+    {
+        "Customer": "PATRIOT TRAILER SOLUTIONS",
+        "Website": "https://patriottrailersolutions.com/",
+        "Phone": "315-935-4986",
+        "Address": "15087 NY 104, Martville, NY 13111",
+        "Latitude": 43.2592355,
+        "Longitude": -76.6415205
+    },
+    {
+        "Customer": "Penner Trailer Sales",
+        "Website": "https://pennertrailersales.com/",
+        "Phone": "931-361-1122",
+        "Address": "3230 Tullahoma Hwy, Winchester, TN 37398",
+        "Latitude": 35.2297297,
+        "Longitude": -86.1074676
+    },
+    {
+        "Customer": "Profoam",
+        "Website": "https://profoam.com/",
+        "Phone": "(706) 557-1400",
+        "Address": "145 Newborn Rd, Rutledge, GA 30663",
+        "Latitude": 33.6243356,
+        "Longitude": -83.6120904
+    },
+    {
+        "Customer": "PTS VENTURE INC",
+        "Website": "www.performance40east.com",
+        "Phone": "410-344-1787",
+        "Address": "10820 Pulaski Hwy., White Marsh, MD 21162",
+        "Latitude": 39.3818639,
+        "Longitude": -76.426182
+    },
+    {
+        "Customer": "Reese Trailer Sales- NP",
+        "Website": "https://www.reesetrailers.com/",
+        "Phone": "828-684-3996",
+        "Address": "73 Oren Dr., Mills River, NC 28759",
+        "Latitude": 35.4081955,
+        "Longitude": -82.5549255
+    },
+    {
+        "Customer": "RENOWN CARGO TRAILERS",
+        "Website": "www.renowncargotrailers.com",
+        "Phone": "888-287-3954",
+        "Address": "1135 Bowens Mill Rd SW, Douglas, GA 31533",
+        "Latitude": 31.489435,
+        "Longitude": -82.8673983
+    },
+    {
+        "Customer": "River City Motor Company",
+        "Website": "https://www.rivercitync.com/",
+        "Phone": "252-537-7440",
+        "Address": "334 Roanoke Rapids Road, Gaston, NC 27832",
+        "Latitude": 36.4928234,
+        "Longitude": -77.6441342
+    },
+    {
+        "Customer": "ROCKLAND CARGO EQUIP.",
+        "Website": "https://www.rocklandcargo.com/",
+        "Phone": "770-922-6219",
+        "Address": "1532 Old McDonough Hwy, Conyers, GA 30094",
+        "Latitude": 33.6474134,
+        "Longitude": -84.0141215
+    },
+    {
+        "Customer": "RPM Trailer Sales",
+        "Website": "www.rpmtrailersales.com",
+        "Phone": "706-654-2882",
+        "Address": "6118 Hwy 53, Braselton, GA 30517",
+        "Latitude": 34.124382,
+        "Longitude": -83.764269
+    },
+    {
+        "Customer": "Sandia Trailer Sales- NP",
+        "Website": "www.sandiatrailer.com",
+        "Phone": "(505) 281-9860",
+        "Address": "1435 Route 66, Edgewood, NM 87015",
+        "Latitude": 35.0824757,
+        "Longitude": -106.2433919
+    },
+    {
+        "Customer": "Sarlo Mowers",
+        "Website": "www.weknowmow.com",
+        "Phone": "239-332-1955",
+        "Address": "2315 Dr. Martin Luther King Dr., Fort Myers, FL 33901",
+        "Latitude": 26.6412165,
+        "Longitude": -81.8663632
+    },
+    {
+        "Customer": "Sarlo Mowers:Cape Coral",
+        "Website": "www.weknowmow.com",
+        "Phone": "239-332-1955",
+        "Address": "2716 Skyline Blvd., Cape Coral, FL 33914",
+        "Latitude": 26.570936,
+        "Longitude": -81.990797
+    },
+    {
+        "Customer": "Sarlo Mowers:Ft Myers",
+        "Website": "www.weknowmow.com",
+        "Phone": "239-332-1955",
+        "Address": "2315 Dr. Martin Luther King Dr., Fort Myers, FL 33901",
+        "Latitude": 26.6412165,
+        "Longitude": -81.8663632
+    },
+    {
+        "Customer": "Sarlo Mowers Bonita Springs",
+        "Website": "www.weknowmow.com",
+        "Phone": "239-332-1955",
+        "Address": "24119 Production Circle, Bonita Springs, FL 34135",
+        "Latitude": 26.3897649,
+        "Longitude": -81.8057285
+    },
+    {
+        "Customer": "SG Trailer Sales",
+        "Website": "southerngracetrailers.com",
+        "Phone": "813-730-1038",
+        "Address": "301 East SR 60, Plant City, FL 33507",
+        "Latitude": 27.937751,
+        "Longitude": -82.214422
+    },
+    {
+        "Customer": "Silverline Trailers-RO",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "907 S. Hickory St., Dexter, MO 63841",
+        "Latitude": 36.791389,
+        "Longitude": -89.952254
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Bartow, FL",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "863-733-4036 ",
+        "Address": "4500 US Hwy 17, Bartow, FL 33830",
+        "Latitude": 27.9193399,
+        "Longitude": -81.8240678
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Canton, MS",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "662-290-4481  ",
+        "Address": "906 West Peace St., Canton, MS 39046",
+        "Latitude": 32.6124757,
+        "Longitude": -90.0481233
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Dexter, MO",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203  ",
+        "Address": "907 S. Hickory St., Dexter, MO 63841",
+        "Latitude": 36.791389,
+        "Longitude": -89.952254
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Elm Mott, TX",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "254-374-7030 ",
+        "Address": "906 N McLennan Dr., Elm Mott, TX 76640",
+        "Latitude": 31.6827743,
+        "Longitude": -97.0991484
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Festus, MO",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "636-306-3775",
+        "Address": "2455 US 67 S, Festus, MO 63028",
+        "Latitude": 38.177234,
+        "Longitude": -90.445908
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Harrison, AR",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "870-365-0890  ",
+        "Address": "2721 Center Loop, Harrison, AR 72601",
+        "Latitude": 36.234922,
+        "Longitude": -93.098543
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Hot Springs, AR",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-421-8691  ",
+        "Address": "3484 E. Grand Ave, Hot Springs, AR 71901",
+        "Latitude": 34.516689,
+        "Longitude": -93.038319
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Huntsville TX",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "267 State Hwy 19, Huntsville, TX 77340",
+        "Latitude": 30.709825,
+        "Longitude": -95.527093
+    },
+    {
+        "Customer": "Silverline Trailers-RO:JACKSONVILLE FL",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "8629 Atlantic Blvd., Jacksonville, FL 32211",
+        "Latitude": 30.314246,
+        "Longitude": -81.566305
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Jasper TN",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "275 TVA Rd., Jasper, TN 37347",
+        "Latitude": 35.012139,
+        "Longitude": -85.609302
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Jonesboro, AR",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-300-2883  ",
+        "Address": "3711 Stadium Blvd, Jonesboro, AR 72404",
+        "Latitude": 35.795216,
+        "Longitude": -90.669804
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Marianna, FL",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "850-703-0314  ",
+        "Address": "2981 Penn Ave., Marianna, FL 32448",
+        "Latitude": 30.7662565,
+        "Longitude": -85.253139
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Mayer,AZ",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "19120 E. Copper Star Rd., Mayer, AZ 86333",
+        "Latitude": 34.303964,
+        "Longitude": -112.10038
+    },
+    {
+        "Customer": "Silverline Trailers-RO:McKinney, TX",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "2332 CR 341, McKinney, TX 75071",
+        "Latitude": 33.2519581,
+        "Longitude": -96.5625722
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Menomonie, WI",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "5723 Freitag Dr, Menomonie, WI 54751",
+        "Latitude": 44.903519,
+        "Longitude": -91.863835
+    },
+    {
+        "Customer": "Silverline Trailers-RO:MONA, UT",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "7098 N. old Hwy 91, Mona, UT 84645",
+        "Latitude": 39.890706,
+        "Longitude": -111.833917
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Palmyra, MO",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-880-8741  ",
+        "Address": "7185 Quarter Horse Lane, Palmyra, MO 63461",
+        "Latitude": 39.794531,
+        "Longitude": -91.609424
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Penrose,Co",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "605 Third st., Penrose, CO 81240",
+        "Latitude": 38.446955,
+        "Longitude": -105.023282
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Poplar Bluff, MO",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-686-2277  ",
+        "Address": "1805 Speedway Drive, Poplar Bluff, MO 63901",
+        "Latitude": 36.484674,
+        "Longitude": -90.073134
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Pottstown, PA",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "215-692-3759  ",
+        "Address": "223 Porter Rd, Pottstown, PA 19464",
+        "Latitude": 40.241331,
+        "Longitude": -75.6100667
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Red Oak, IA",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "1981 G Ave, Red Oak, IA 51566",
+        "Latitude": 41.019058,
+        "Longitude": -95.251803
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Richmond, KY",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-625-1040 ",
+        "Address": "126 Moberly, Richmond, KY 40475",
+        "Latitude": 37.7513708,
+        "Longitude": -84.2921306
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Robertsdale AL.",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "21150 ST RT 59, Robertsdale, AL 36567",
+        "Latitude": 30.533467,
+        "Longitude": -87.708284
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Sanford N.C.",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "573-624-3203",
+        "Address": "516 Weller Street, Sanford, NC 27330",
+        "Latitude": 35.4760429,
+        "Longitude": -79.173443
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Springfield, IL",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "217-787-7900  ",
+        "Address": "1560 Knights Recreation Dr, Springfield, IL 62711",
+        "Latitude": 39.7408682,
+        "Longitude": -89.6788972
+    },
+    {
+        "Customer": "Silverline Trailers-RO:Walterboro, SC",
+        "Website": "https://www.silverlinetrailer.com/",
+        "Phone": "843-835-3013 ",
+        "Address": "2000 Cottageville Hwy, Walterboro, SC 29488",
+        "Latitude": 32.919429,
+        "Longitude": -80.623486
+    },
+    {
+        "Customer": "Southern Bell Trailer Sales",
+        "Website": "www.southernbelltrailersales.com",
+        "Phone": "850-576-2165",
+        "Address": "5876 W. Tennessee Street, Tallahassee, FL 32304",
+        "Latitude": 30.4462335,
+        "Longitude": -84.3207212
+    },
+    {
+        "Customer": "Southern Hardware",
+        "Website": "https://southernhardwareinc.com/",
+        "Phone": "(912) 267-7992",
+        "Address": "3305 US Highway 82, Brunswick, GA 31523",
+        "Latitude": 31.143996,
+        "Longitude": -81.588319
+    },
+    {
+        "Customer": "Space Coast Industries",
+        "Website": "www.spacecoaststeel.com",
+        "Phone": "321-633-9336",
+        "Address": "700 Cox Rd, Cocoa, FL 32926",
+        "Latitude": 28.3705415,
+        "Longitude": -80.788073
+    },
+    {
+        "Customer": "Stanford Trailers, LLC",
+        "Website": "www.stanfordtrailers.com",
+        "Phone": "740-360-0199",
+        "Address": "866 Pole Lane Rd, Marion, OH 43302",
+        "Latitude": 40.5996516,
+        "Longitude": -83.0733966
+    },
+    {
+        "Customer": "Superior Trailer Sales Inc",
+        "Website": "https://www.superior-trailer.com/",
+        "Phone": "757-497-5557",
+        "Address": "4999 B Euclid Rd, VA Beach, VA 23462",
+        "Latitude": 36.841072,
+        "Longitude": -76.150878
+    },
+    {
+        "Customer": "Superior Trailer Sales Inc:Chesterfield, VA",
+        "Website": "https://www.superior-trailer.com/",
+        "Phone": "757-497-5557",
+        "Address": "7100 Jefferson Davis Hwy N., Chesterfield, VA 23237",
+        "Latitude": 37.403462,
+        "Longitude": -77.471274
+    },
+    {
+        "Customer": "Superior Trailer Sales Inc:Suffolk, VA",
+        "Website": "https://www.superior-trailer.com/",
+        "Phone": "757-497-5557",
+        "Address": "3468 Pruden Blvd, Suffolk, VA 23434",
+        "Latitude": 36.7786914,
+        "Longitude": -76.6211062
+    },
+    {
+        "Customer": "TEMPLE TRAILER SALES",
+        "Website": "https://templetrailersales.com/",
+        "Phone": "770-547-2145",
+        "Address": "1251 Curtis Parkway, Calhoun, GA 30701",
+        "Latitude": 34.4758889,
+        "Longitude": -84.9222478
+    },
+    {
+        "Customer": "The Trailer Store",
+        "Website": "https://thetrailerstore.online/",
+        "Phone": "803-396-0050",
+        "Address": "2950 Old Nation Rd. # 5, Fort Mill, SC 29715",
+        "Latitude": 35.0123901,
+        "Longitude": -80.9483077
+    },
+    {
+        "Customer": "Thib's Trailers",
+        "Website": "www.thibstrailers.com",
+        "Phone": "(337) 873-4906",
+        "Address": "906 Fieldspan Rd., Duson, LA 70529",
+        "Latitude": 30.229213,
+        "Longitude": -92.142099
+    },
+    {
+        "Customer": "TNC TRAILERS",
+        "Phone": "931-787-1862",
+        "Address": "1226 INDUSTRIAL BLVD, CROSSVILLE, TN 38555",
+        "Latitude": 35.9667299,
+        "Longitude": -85.0370516
+    },
+    {
+        "Customer": "TNT Outfitters, LLC",
+        "Website": "https://tntoutfitters.com/",
+        "Phone": "(334) 303-9966",
+        "Address": "1840 I-65  Service Rd, Millbrook, AL 36054",
+        "Latitude": 32.60737,
+        "Longitude": -86.082343
+    },
+    {
+        "Customer": "TPD Trailer Sales LLC",
+        "Website": "https://www.tpdtrailersales.com/",
+        "Phone": "270-437-4943",
+        "Address": "83 Shamrock Lane, Dexter, KY 42036",
+        "Latitude": 36.7361343,
+        "Longitude": -88.2998738
+    },
+    {
+        "Customer": "Trail Rite Sales, Inc",
+        "Website": "https://www.trailritesales.com/all-inventory",
+        "Phone": "864-710-5646",
+        "Address": "7185 Hwy 11-SC, Westminster, SC 29693",
+        "Latitude": 34.651005,
+        "Longitude": -83.04844
+    },
+    {
+        "Customer": "Trailer Connection- NP",
+        "Website": "www.trailerconnectionllc.com",
+        "Phone": "540-483-9170",
+        "Address": "9150 Virgil H Goode Hwy, Rocky Mount, VA 24151",
+        "Latitude": 37.0091137,
+        "Longitude": -79.8729486
+    },
+    {
+        "Customer": "Trailer Mart, Inc.",
+        "Website": "https://www.trailermartinc.com/",
+        "Phone": "931-321-1499",
+        "Address": "2621 US 41 ALT. Bypass, Clarksville, TN 37043",
+        "Latitude": 36.506069,
+        "Longitude": -87.274843
+    },
+    {
+        "Customer": "Trailer Mart, Inc.:of Cave City",
+        "Website": "www.trailer-mart.com",
+        "Phone": "270-773-5034",
+        "Address": "502 East Happy Valley Street, Cave City, KY 42127",
+        "Latitude": 37.1256557,
+        "Longitude": -85.9615175
+    },
+    {
+        "Customer": "TRAILER PLUS LLC",
+        "Website": "https://trailerplusnc.com/",
+        "Phone": "252-635-3375",
+        "Address": "7001 HWY 70 EAST, NEW BERN, NC 28562",
+        "Latitude": 35.002552,
+        "Longitude": -76.987946
+    },
+    {
+        "Customer": "Trailer Source LLC-NP",
+        "Website": "https://trailersource.com/",
+        "Phone": "864-349-1599",
+        "Address": "6240 White Horse Rd, Greenville, SC 29611",
+        "Latitude": 34.8579519,
+        "Longitude": -82.4605521
+    },
+    {
+        "Customer": "Trailers Unlimited, Inc.",
+        "Website": "http://www.trailers-unlimited.com/",
+        "Phone": "910-675-3002",
+        "Address": "30 Commerce Drive, Rocky Point, NC 28457",
+        "Latitude": 34.289943,
+        "Longitude": -77.909118
+    },
+    {
+        "Customer": "Tri County Trailers",
+        "Website": "https://www.trailersinwestvirginia.com/",
+        "Phone": "304-250-6155",
+        "Address": "1141 Airport Rd., Beaver, WV 25813",
+        "Latitude": 37.77187,
+        "Longitude": -81.090956
+    },
+    {
+        "Customer": "Tri County Trailers:Charleston, WV- NP",
+        "Website": "https://www.trailersinwestvirginia.com/",
+        "Phone": "304-205-4323",
+        "Address": "95 Mink Shoals Branch Road, Charleston, WV 25302",
+        "Latitude": 38.392781,
+        "Longitude": -81.590626
+    },
+    {
+        "Customer": "Triple Crown Trailers Georgia",
+        "Website": "https://downtoearthtrailers.com/",
+        "Phone": "912-367-3007",
+        "Address": "dba Down 2 Earth Trailers, Baxley, GA 31513",
+        "Latitude": 31.773414,
+        "Longitude": -82.357614
+    },
+    {
+        "Customer": "Triple J Trailers",
+        "Website": "https://triplejtrailers.com/",
+        "Phone": "1-432-758-3314",
+        "Address": "1348 US HWY 180, Seminole, TX 79360",
+        "Latitude": 32.7215443,
+        "Longitude": -102.660019
+    },
+    {
+        "Customer": "Truck 'N Trailers",
+        "Website": "https://www.4tntusa.com/",
+        "Phone": "(423) 876-1990",
+        "Address": "4591 North Access Road, Chattanooga, TN 37415",
+        "Latitude": 35.1082818,
+        "Longitude": -85.2311567
+    },
+    {
+        "Customer": "Tuscarawas Liquidations",
+        "Phone": "3303407210",
+        "Address": "140 3rd St NW, New Philadelphia, OH 44663",
+        "Latitude": 40.4914463,
+        "Longitude": -81.4497602
+    },
+    {
+        "Customer": "Wheel A Way",
+        "Website": "wheelawaysales.com",
+        "Phone": "(386) 423-5553",
+        "Address": "3113 S Ridgewood Ave, Edgewater, FL 32141",
+        "Latitude": 28.9459176,
+        "Longitude": -80.8825519
+    },
+    {
+        "Customer": "Wilson Trailers & Repair Inc",
+        "Website": "www.wilsontrailers.net",
+        "Phone": "904-246-2627",
+        "Address": "37 W 8th Street, Atlantic, FL 32233",
+        "Latitude": 30.3301672,
+        "Longitude": -81.4177524
+    }
+]
